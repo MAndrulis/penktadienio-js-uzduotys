@@ -44,6 +44,8 @@ console.log(aktoriausVardas[vardoIndex - 4] + aktoriausVardas[vardoIndex - 3] + 
 
 //4
 
+const storyLine = 'Once upon a time in Holllywood.';
+console.log(storyLine.replaceAll('o', '*').replace('O', '*'));
 
 
 
